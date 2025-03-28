@@ -8,5 +8,5 @@ Program only Chinese interface
 3,输入要进行操作的表（更改表需要重新打开应用）
 4,接下来你就能进行体验了
 
-// 运行前需要安装.net SDK，推荐6.0
+// 运行前需要安装.net SDK，推荐https://builds.dotnet.microsoft.com/dotnet/Sdk/6.0.428/dotnet-sdk-6.0.428-win-x64.exe
 //本软件为作者学习使用，不做任何商品用途。
